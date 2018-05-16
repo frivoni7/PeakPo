@@ -1,2 +1,2 @@
 python cif2jcpds.py -h to get help
-python cif2jcpds.py -i <inputfile> -o <outputfile>
+python cif2jcpds.py -i 7206075_anatase.cif -o 7206075_anatase.jcpds
